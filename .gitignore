@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output results
+simulation_results.png
+__pycache__/
+*.py[cod]
+*$py.class
+*.png
+simulation_results.png
+.env
